@@ -8,7 +8,7 @@ Windows 10 / 11 x64 · 单文件 EXE · MIT
 
 ## 下载
 
-Windows 版 **v0.2.2（局域网对战版）** 为单文件 EXE：[GitHub 下载](https://github.com/fanxiaofengfeng/desktop-icon-billiards/releases/download/v0.2.2/DesktopIconBilliards-0.2.2-win-x64.exe)
+Windows 版 **v0.2.3（局域网对战版）** 为单文件 EXE：[GitHub 下载](https://github.com/fanxiaofengfeng/desktop-icon-billiards/releases/download/v0.2.3/DesktopIconBilliards-0.2.3-win-x64.exe)
 
 本仓库是 [liuxiaogang-com/desktop-icon-billiards](https://github.com/liuxiaogang-com/desktop-icon-billiards) 的 fork，在 v0.1.6 基础上新增**局域网双人对战**，设计与协议见 [docs/NETPLAY.md](docs/NETPLAY.md)。上游单人版仍由原作者发布：[GitHub 下载](https://github.com/liuxiaogang-com/desktop-icon-billiards/releases/download/v0.1.6/DesktopIconBilliards-0.1.6-win-x64.exe) · [CNB 国内镜像](https://cnb.cool/liuxiaogang/desktop-icon-billiards/-/releases/download/v0.1.6/DesktopIconBilliards-0.1.6-win-x64.exe)
 
